@@ -19,8 +19,8 @@ public class RPSGame{
 	else if(player1.equals("p") || player1.equals("P")){
 		int player1Choice = 2;}
 	else if(player1.equals("s") || player1.equals("s")){
-		int player1Choice = 3;}
+		int player1Choice = 3;
     
-	System.out.println(player1Choice);
+	System.out.println(player1Choice);}
   }
 }
